@@ -4,3 +4,4 @@ Resources for Decoration
 
 ![First](https://github.com/ptorrezao/Baby_Decoration/blob/master/Applied/Girafe02.jpg?raw=true)
 
+![Applied](https://github.com/ptorrezao/Baby_Decoration/blob/master/Applied/FullBedroom.jpg?raw=true)
